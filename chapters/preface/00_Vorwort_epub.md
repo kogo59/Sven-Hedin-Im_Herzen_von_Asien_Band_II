@@ -4,35 +4,35 @@
 ## Abbildungen. {#ABB .unnumbered  }
 
 * [„Einen Schritt weiter — und es kostet euch den Kopf!“](ch001.xhtml#b000) (Titelbild)
-* [Die Kamele beladen](ch002.xhtml#b003)
-* [Umladen während des Marsches](ch002.xhtml#b004)
-* [Lager in Nordtibet](ch002.xhtml#b005)
-* [Das nach dem Passe des Akato-tag hinaufführende Tal](ch002.xhtml#b008)
-* [Bahnen eines Wegs über den Paß](ch002.xhtml#b009)
-* [Der Platz, an dem wir umkehrten](ch002.xhtml#b011)
-* [Ein Tal mit zwei Stockwerken](ch002.xhtml#b012)
-* [Das Gewölbe im Tale](ch002.xhtml#b013)
-* [Die Kamele werden einzeln nach dem Hauptpasse hinaufgeführt](ch002.xhtml#b014)
-* [Die Quelle am 22. Dezember](ch002.xhtml#b015)
-* [Weide an der Quelle vom 22. Dezember](ch002.xhtml#b016)
-* [Kochen und Waschen am Anambaruin-gol](ch002.xhtml#b017)  (Separatbild)
-* [Die Geröllterrasse an der Quelle vom 22. Dezember](ch002.xhtml#b017a)
-* [Die mongolischen Führer](ch002.xhtml#b020) (Separatbild)
-* [Blick nach Südosten vom Lager am Anambaruin-gol](ch002.xhtml#b021)
-* Im Tale des Anambaruin-gol aufwärtsführender Weg
-* An den Felsen von Dschong-duntsa (Separatbild)
-* Einer unserer mongolischen Führer
-* Das Lager im Tale von Dschong-duntsa
-* Die nach Dschong-duntsa hinunterführende Schlucht
-* Unsere Kamele im Tale von Dschong-duntsa
-* Das Lager in Lu-tschuentsa
-* Steinhütten im Lu-tschuentsatale
-* Die Karawane auf dem Eise des Lu-tschuentsa-Baches
-* Lager mitten in der Sandwüste
-* Terrasse nördlich von der Oase vom 1. Februar
-* Sanddünen in der mittelsten Gobi
-* Tränkung der Kamele am Brunnen im Lager Nr. CXXXVIII
-* Brunnen, von Schagdur und Chodai Kullu in der letzten Oase gegraben
+* [Die Kamele beladen](ch003.xhtml#b003)
+* [Umladen während des Marsches](ch003.xhtml#b004)
+* [Lager in Nordtibet](ch003.xhtml#b005)
+* [Das nach dem Passe des Akato-tag hinaufführende Tal](ch003.xhtml#b008)
+* [Bahnen eines Wegs über den Paß](ch003.xhtml#b009)
+* [Der Platz, an dem wir umkehrten](ch003.xhtml#b011)
+* [Ein Tal mit zwei Stockwerken](ch003.xhtml#b012)
+* [Das Gewölbe im Tale](ch003.xhtml#b013)
+* [Die Kamele werden einzeln nach dem Hauptpasse hinaufgeführt](ch003.xhtml#b014)
+* [Die Quelle am 22. Dezember](ch003.xhtml#b015)
+* [Weide an der Quelle vom 22. Dezember](ch003.xhtml#b016)
+* [Kochen und Waschen am Anambaruin-gol](ch003.xhtml#b017)  (Separatbild)
+* [Die Geröllterrasse an der Quelle vom 22. Dezember](ch003.xhtml#b017a)
+* [Die mongolischen Führer](ch003.xhtml#b020) (Separatbild)
+* [Blick nach Südosten vom Lager am Anambaruin-gol](ch003.xhtml#b021)
+* [Im Tale des Anambaruin-gol aufwärtsführender Weg](ch004.xhtml#b024)
+* [An den Felsen von Dschong-duntsa](ch004.xhtml#b024a) (Separatbild)
+* [Einer unserer mongolischen Führer](ch004.xhtml#b025)
+* [Das Lager im Tale von Dschong-duntsa](ch004.xhtml#b027)
+* [Die nach Dschong-duntsa hinunterführende Schlucht](ch004.xhtml#b028)
+* [Unsere Kamele im Tale von Dschong-duntsa](ch004.xhtml#b029)
+* [Das Lager in Lu-tschuentsa](ch004.xhtml#b031)
+* [Steinhütten im Lu-tschuentsa-Tale](ch004.xhtml#b032)
+* [Die Karawane auf dem Eise des Lu-tschuentsa-Baches](ch004.xhtml#b033)
+* [Lager mitten in der Sandwüste](ch004.xhtml#b037)
+* [Terrasse nördlich von der Oase vom 1. Februar](ch004.xhtml#b040)
+* [Sanddünen in der mittelsten Gobi](ch004.xhtml#b040a)
+* [Tränkung der Kamele am Brunnen im Lager Nr. CXXXVIII](ch004.xhtml#b041)
+* [Brunnen, von Schagdur und Chodai Kullu in der letzten Oase gegraben](ch004.xhtml#b043)
 * Auf dem Wege durch die Wüste Gobi  (bunte Tafel)
 * Das angeschossene Kamelweibchen
 * Altimisch-bulak, „die 60 Quellen”
