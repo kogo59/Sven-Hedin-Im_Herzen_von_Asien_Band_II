@@ -33,17 +33,17 @@
 * [Sanddünen in der mittelsten Gobi](ch004.xhtml#b040a)
 * [Tränkung der Kamele am Brunnen im Lager Nr. CXXXVIII](ch004.xhtml#b041)
 * [Brunnen, von Schagdur und Chodai Kullu in der letzten Oase gegraben](ch004.xhtml#b043)
-* Auf dem Wege durch die Wüste Gobi  (bunte Tafel)
-* Das angeschossene Kamelweibchen
-* Altimisch-bulak, „die 60 Quellen”
-* Aus der Oase Altimisch-bulak
-* Reinigung des Kamelskeletts im Lager in Altimisch-bulak
-* Meine Jurte in Chodai Kullus Oase
-* Chodai Kullu und sein wildes Kamel
-* Prüfung des Nivellierinstruments bei Altimisch-bulak  (Separatbild)
-* Das geschossene Kamel
-* Unser Lager bei Chodai Kullus Quelle
-* Eisscholle unterhalb Chodai Kullus Ouelle
+* [Auf dem Wege durch die Wüste Gobi](ch005.xhtml#b048)  (bunte Tafel)
+* [Das angeschossene Kamelweibchen](ch005.xhtml#b051)
+* [Altimisch-bulak, „die 60 Quellen”](ch005.xhtml#b052)
+* [Aus der Oase Altimisch-bulak](ch005.xhtml#b053)
+* [Reinigung des Kamelskeletts im Lager in Altimisch-bulak](ch005.xhtml#b054)
+* [Meine Jurte in Chodai Kullus Oase](ch005.xhtml#b055)
+* [Chodai Kullu und sein wildes Kamel](ch005.xhtml#b056)
+* [Prüfung des Nivellierinstruments bei Altimisch-bulak](ch005.xhtml#b056a)  (Separatbild)
+* [Das geschossene Kamel](ch005.xhtml#b057)
+* [Unser Lager bei Chodai Kullus Quelle](ch005.xhtml#b059)
+* [Eisscholle unterhalb Chodai Kullus Ouelle](ch005.xhtml#b061)
 * Der erste Turm der untergegangenen Stadt  (Separatbild)
 * Eine kupferne Lampe aus Lou-lan
 * Das Haus in der unmittelbaren Nähe des Lagers
