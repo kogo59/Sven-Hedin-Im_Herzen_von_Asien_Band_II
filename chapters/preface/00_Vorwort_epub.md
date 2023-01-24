@@ -44,9 +44,58 @@
 * [Das geschossene Kamel](ch005.xhtml#b057)
 * [Unser Lager bei Chodai Kullus Quelle](ch005.xhtml#b059)
 * [Eisscholle unterhalb Chodai Kullus Ouelle](ch005.xhtml#b061)
-* Der erste Turm der untergegangenen Stadt  (Separatbild)
-* Eine kupferne Lampe aus Lou-lan
-* Das Haus in der unmittelbaren Nähe des Lagers
+* [Der erste Turm der untergegangenen Stadt](ch006.xhtml#b064)  (Separatbild)
+* [Eine kupferne Lampe aus Lou-lan](ch006.xhtml#b065)
+* [Das Haus in der unmittelbaren Nähe des Lagers](ch006.xhtml#b066)
+* [Aussicht nach Südwesten von dem Tora des Hauptquartiers](ch006.xhtml#b069)
+* [Der Lehmturm von der Südseite](ch006.xhtml#b071)
+* [Der Turm von Nordost](ch006.xhtml#b072)
+* [Signalfeuer am sechzehnhundertjährigen Turme von Lou-lan](ch006.xhtml#b072a)  (bunte Tafel)
+* [Abbruch eines Turmes](ch006.xhtml#b073)
+* [Haus mit stehengebliebenen Türen](ch006.xhtml#b075)
+* [Schnitzereien in Pappelholz](ch006.xhtml#b077)
+* [Geschnitzte Holzstücke aus den Ruinen](ch006.xhtml#b079)
+* [Ausgrabungen im Buddhatempel](ch006.xhtml#b080)
+* [Der Lehmturm beim Buddhatempel](ch006.xhtml#b081)
+* [Das Haus, in welchem die Manuskripte gefunden wurden](ch006.xhtml#b082)
+* [Schagdur mit einigen seiner Funden](ch006.xhtml#b083)
+* [Details von Häusern in Lou-Lan](ch006.xhtml#b085)
+* [Ausgrabungen in einem der Häuser von Lou-Lan](ch006.xhtml#b087)
+* [Links der Tonkrug, in der Mitte ein Rad, rechts das Manuskripthaus und ganz hinten der Lagerturm](ch006.xhtml#b088)
+* [Einzelheiten aus Lou-lan. Im Hintergrunde die Lehmwüste](ch006.xhtml#b089)
+* Heraufziehender Wüstensturm (bunte Tafel)
+* Die Nivellierungskarawane
+* Furche in der Schor-Wüste
+* Lager am abgeschnürten Wasserarm (Separatbild)
+* Ein Ausläufer des wandernden Seee
+* Die Jurte in meinem Garteen (Separatbild)
+* Mein Hirsch im Garten
+* Sirkin und Tschernoff mit den beiden kleinsten jungen Kamelen
+* Im Schatten der Weiden am Seraiteich in Tscharchlik (Separatbild)
+* Ein Teil des Stallhofes unseres Serai
+* Schereb Lama auf dem „Gelbohr“ mit dem „Tiger“ an der Leine
+* Der Tag vor dem Aufbruch aus Tscharchlik
+* Unser erstes Lager im Tale des Tscharchlik-su
+* Der Tscharchlik-su bei der letzten, scharfen Durchbruchsbiegung
+* Unser Lager in Unkurluk. Blick auf das Nebental
+* Ankauf von Schafen bei den Hirten von Unkurluk
+* Die am Ufer des Kum-köll aufgestapelten Kamellasten
+* Die Kamele am Ufer des Aum-köll
+* Turdu Bais Zelt
+* Erlegter tibetischer Bär (Separatbild)
+* Berg beim Lager Nr. XXIV
+* Flußübergang
+* Das Steinmal auf dem Knotenpunkte bei Lager Nr. XXIV
+* Eine angeschossene Orongoantilope (Separatbild)
+* Weidende Kamele
+* Schereb Lama
+* Sirkin mit meinem alten Reisekameraden von 1896
+* Die Kamele waten durch den Fluß
+* Endlich in einer Gegend mit gutem Wasser
+
+
+
+
 
 
 :::: align-center

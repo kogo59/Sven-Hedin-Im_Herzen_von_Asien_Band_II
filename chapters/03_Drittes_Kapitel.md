@@ -429,7 +429,7 @@ liegt so gut im Terrain versteckt, daß es unmöglich sein würde, sie zu finden
 wenn man sie nicht kennte oder wie Chodai Kullu durch reinen Zufall dorthin
 geriet.
 
-:::: {.wrap-80 }
+:::: {.wrap-100 }
 ![Eisscholle unterhalb Chodai Kullus Ouelle.](Im_Herzen_von_Asien_II_061.jpg "Eisscholle unterhalb Chodai Kullus Ouelle."){#b061}
 ::::
 
