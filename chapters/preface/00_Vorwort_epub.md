@@ -63,12 +63,12 @@
 * [Ausgrabungen in einem der Häuser von Lou-Lan](ch006.xhtml#b087)
 * [Links der Tonkrug, in der Mitte ein Rad, rechts das Manuskripthaus und ganz hinten der Lagerturm](ch006.xhtml#b088)
 * [Einzelheiten aus Lou-lan. Im Hintergrunde die Lehmwüste](ch006.xhtml#b089)
-* Heraufziehender Wüstensturm (bunte Tafel)
-* Die Nivellierungskarawane
-* Furche in der Schor-Wüste
+* [Heraufziehender Wüstensturm](ch008.xhtml#b104) (bunte Tafel)
+* [Die Nivellierungskarawane](ch008.xhtml#b105)
+* [Furche in der Schor-Wüste](ch008.xhtml#b111)
 * Lager am abgeschnürten Wasserarm (Separatbild)
 * Ein Ausläufer des wandernden Seee
-* Die Jurte in meinem Garteen (Separatbild)
+* Die Jurte in meinem Garten (Separatbild)
 * Mein Hirsch im Garten
 * Sirkin und Tschernoff mit den beiden kleinsten jungen Kamelen
 * Im Schatten der Weiden am Seraiteich in Tscharchlik (Separatbild)
