@@ -66,8 +66,8 @@
 * [Heraufziehender Wüstensturm](ch008.xhtml#b104) (bunte Tafel)
 * [Die Nivellierungskarawane](ch008.xhtml#b105)
 * [Furche in der Schor-Wüste](ch008.xhtml#b111)
-* Lager am abgeschnürten Wasserarm (Separatbild)
-* Ein Ausläufer des wandernden Seee
+* [Lager am abgeschnürten Wasserarm](ch008.xhtml#b124) (Separatbild)
+* [Ein Ausläufer des wandernden See](ch008.xhtml#b129)
 * Die Jurte in meinem Garten (Separatbild)
 * Mein Hirsch im Garten
 * Sirkin und Tschernoff mit den beiden kleinsten jungen Kamelen
