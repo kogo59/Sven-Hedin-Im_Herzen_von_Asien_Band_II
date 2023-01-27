@@ -66,15 +66,15 @@
 * [Heraufziehender Wüstensturm](ch008.xhtml#b104) (bunte Tafel)
 * [Die Nivellierungskarawane](ch008.xhtml#b105)
 * [Furche in der Schor-Wüste](ch008.xhtml#b111)
-* [Lager am abgeschnürten Wasserarm](ch008.xhtml#b124) (Separatbild)
-* [Ein Ausläufer des wandernden See](ch008.xhtml#b129)
-* Die Jurte in meinem Garten (Separatbild)
-* Mein Hirsch im Garten
-* Sirkin und Tschernoff mit den beiden kleinsten jungen Kamelen
-* Im Schatten der Weiden am Seraiteich in Tscharchlik (Separatbild)
-* Ein Teil des Stallhofes unseres Serai
-* Schereb Lama auf dem „Gelbohr“ mit dem „Tiger“ an der Leine
-* Der Tag vor dem Aufbruch aus Tscharchlik
+* [Lager am abgeschnürten Wasserarm](ch009.xhtml#b124) (Separatbild)
+* [Ein Ausläufer des wandernden See](ch009.xhtml#b129)
+* [Die Jurte in meinem Garten](ch010.xhtml#b136) (Separatbild)
+* [Mein Hirsch im Garten](ch010.xhtml#b137)
+* [Sirkin und Tschernoff mit den beiden kleinsten jungen Kamelen](ch010.xhtml#b139)
+* [Im Schatten der Weiden am Seraiteich in Tscharchlik](ch010.xhtml#b140) (Separatbild)
+* [Ein Teil des Stallhofes unseres Serai](ch010.xhtml#b143) 
+* [Schereb Lama auf dem „Gelbohr“ mit dem „Tiger“ an der Leine](ch010.xhtml#b147) 
+* [Der Tag vor dem Aufbruch aus Tscharchlik](ch010.xhtml#b149) 
 * Unser erstes Lager im Tale des Tscharchlik-su
 * Der Tscharchlik-su bei der letzten, scharfen Durchbruchsbiegung
 * Unser Lager in Unkurluk. Blick auf das Nebental
