@@ -75,12 +75,12 @@
 * [Ein Teil des Stallhofes unseres Serai](ch010.xhtml#b143) 
 * [Schereb Lama auf dem „Gelbohr“ mit dem „Tiger“ an der Leine](ch010.xhtml#b147) 
 * [Der Tag vor dem Aufbruch aus Tscharchlik](ch010.xhtml#b149) 
-* Unser erstes Lager im Tale des Tscharchlik-su
-* Der Tscharchlik-su bei der letzten, scharfen Durchbruchsbiegung
-* Unser Lager in Unkurluk. Blick auf das Nebental
-* Ankauf von Schafen bei den Hirten von Unkurluk
-* Die am Ufer des Kum-köll aufgestapelten Kamellasten
-* Die Kamele am Ufer des Aum-köll
+* [Unser erstes Lager im Tale des Tscharchlik-su](ch011.xhtml#b159) 
+* [Der Tscharchlik-su bei der letzten, scharfen Durchbruchsbiegung](ch011.xhtml#b160) 
+* [Unser Lager in Unkurluk. Blick auf das Nebental](ch011.xhtml#b169) 
+* [Ankauf von Schafen bei den Hirten von Unkurluk](ch011.xhtml#b171) 
+* [Die am Ufer des Kum-köll aufgestapelten Kamellasten](ch011.xhtml#b175) 
+* [Die Kamele am Ufer des Kum-köll](ch011.xhtml#b177) 
 * Turdu Bais Zelt
 * Erlegter tibetischer Bär (Separatbild)
 * Berg beim Lager Nr. XXIV
