@@ -81,9 +81,9 @@
 * [Ankauf von Schafen bei den Hirten von Unkurluk](ch011.xhtml#b171) 
 * [Die am Ufer des Kum-köll aufgestapelten Kamellasten](ch011.xhtml#b175) 
 * [Die Kamele am Ufer des Kum-köll](ch011.xhtml#b177) 
-* Turdu Bais Zelt
-* Erlegter tibetischer Bär (Separatbild)
-* Berg beim Lager Nr. XXIV
+* [Turdu Bais Zelt](ch011.xhtml#b185) 
+* [Erlegter tibetischer Bär](ch011.xhtml#b192) (Separatbild)
+* [Berg beim Lager Nr. XXIV](ch011.xhtml#b193) 
 * Flußübergang
 * Das Steinmal auf dem Knotenpunkte bei Lager Nr. XXIV
 * Eine angeschossene Orongoantilope (Separatbild)
