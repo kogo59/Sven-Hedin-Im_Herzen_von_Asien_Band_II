@@ -90,8 +90,51 @@
 * [Weidende Kamele](ch013.xhtml#b213)
 * [Schereb Lama](ch013.xhtml#b215)
 * [Sirkin mit meinem alten Reisekameraden von 1896](ch013.xhtml#b218)
-* Die Kamele waten durch den Fluß
-* Endlich in einer Gegend mit gutem Wasser
+* [Die Kamele waten durch den Fluß](ch014.xhtml#b225)
+* [Endlich in einer Gegend mit gutem Wasser](ch014.xhtml#b225)
+* [Eine magere Weide in dem großen Längentale](ch014.xhtml#b229)
+* [Junger Kulan](ch014.xhtml#b232) (Separatbild)
+* Die beiden Eisbänder im Tal 
+* Bahnen eines Wegs von der Eisscholle hinunter
+* Kosak Schagdur, der Verfasser und der Lama Schereb als mongolische Pilger (Separatbild)
+* Der Verfasser als mongolischer Pilger verkleidet (Separatbild)
+* Die drei Pilger beim Aufbruche aus dem Hauptquartier.
+* Ein nächtlicher Überfall (Separatbild)
+* Lager der drei Pilger E(Sparatbild)
+* Ein junger tibetischer Hirt
+* Tibetische Frau
+* Älterer Tibeter
+* Auf dem Wege nach Lhasa in strömendem Regen (Separatbild)
+* Mann aus einer tibetischen Karawane
+* Eine Gruppe Tibeter
+* Der Lama im Gespräche mit Tibetern
+* Ein Lama mit Gebettronmmel
+* Die Tibeter schwangen ihre Lanzen und Speere über dem Kopfe und heulten wie die Wilden (Separatbild)
+* Die. tibetischen Reiter
+* Tibetischer Soldat
+* Zelte tibetischer Häuptlinge
+* Tibetische Kavallerie
+* Trompetende Lamas
+* Posaunenblasende Lamas
+* Lama, Trommel und Becken schlagend
+* Lesender Lama 
+* Tibetische Schützen (Separatbild)
+* Tibetische Soldaten
+* Tibeterinnen
+* Zwei tibetische Hirtenknaben
+* Von Sirkin erlegter Köttmek.
+* Hirten von Dschansung im Gespräch mit dem Lama im Lager (Separatbild)
+* Gefrorenes Wild
+* Die Nomadenzelte in der Bergschlucchchh......
+* Der Lama als Gehilfe beim Photographieren der Hirten  (Separatbild)
+* Kalpets Bett auf dem Kamelrücken
+* Unser Lager am Jaggju-rappga
+„. . . und jagten dann in wildem Laufe vor, hinter und durch die Zelte, als wollten sie uns niederreiten!" (bunte Tafel)
+* Das Lazarettzelt
+* Der tote Kalpet auf seinem lebenden Katafalk (Separatbild)
+* Der Leichenzug
+* Kalpets Grab (Separatbild)
+* Hladsche Tsering, das Mitglied des Heiligen Rates, seine Pfeife rauchend
 
 
 
