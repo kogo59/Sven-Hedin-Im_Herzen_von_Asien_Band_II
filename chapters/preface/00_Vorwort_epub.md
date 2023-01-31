@@ -80,16 +80,16 @@
 * [Unser Lager in Unkurluk. Blick auf das Nebental](ch011.xhtml#b169) 
 * [Ankauf von Schafen bei den Hirten von Unkurluk](ch011.xhtml#b171) 
 * [Die am Ufer des Kum-köll aufgestapelten Kamellasten](ch011.xhtml#b175) 
-* [Die Kamele am Ufer des Kum-köll](ch011.xhtml#b177) 
-* [Turdu Bais Zelt](ch011.xhtml#b185) 
-* [Erlegter tibetischer Bär](ch011.xhtml#b192) (Separatbild)
-* [Berg beim Lager Nr. XXIV](ch011.xhtml#b193) 
-* Flußübergang
-* Das Steinmal auf dem Knotenpunkte bei Lager Nr. XXIV
-* Eine angeschossene Orongoantilope (Separatbild)
-* Weidende Kamele
-* Schereb Lama
-* Sirkin mit meinem alten Reisekameraden von 1896
+* [Die Kamele am Ufer des Kum-köll](ch012.xhtml#b177) 
+* [Turdu Bais Zelt](ch012.xhtml#b185) 
+* [Erlegter tibetischer Bär](ch012.xhtml#b192) (Separatbild)
+* [Berg beim Lager Nr. XXIV](ch012.xhtml#b193) 
+* [Flußübergang](ch013.xhtml#b205) 
+* [Das Steinmal auf dem Knotenpunkte bei Lager Nr. XXIV](ch013.xhtml#b207)
+* [Eine angeschossene Orongoantilope](ch013.xhtml#b208) (Separatbild)
+* [Weidende Kamele](ch013.xhtml#b213)
+* [Schereb Lama](ch013.xhtml#b215)
+* [Sirkin mit meinem alten Reisekameraden von 1896](ch013.xhtml#b218)
 * Die Kamele waten durch den Fluß
 * Endlich in einer Gegend mit gutem Wasser
 
