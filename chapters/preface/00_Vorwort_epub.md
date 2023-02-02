@@ -94,10 +94,10 @@
 * [Endlich in einer Gegend mit gutem Wasser](ch014.xhtml#b225)
 * [Eine magere Weide in dem großen Längentale](ch014.xhtml#b229)
 * [Junger Kulan](ch014.xhtml#b232) (Separatbild)
-* Die beiden Eisbänder im Tal 
-* Bahnen eines Wegs von der Eisscholle hinunter
-* Kosak Schagdur, der Verfasser und der Lama Schereb als mongolische Pilger (Separatbild)
-* Der Verfasser als mongolischer Pilger verkleidet (Separatbild)
+* [Die beiden Eisbänder im Tal](ch015.xhtml#b240)  
+* [Bahnen eines Wegs von der Eisscholle hinunter](ch015.xhtml#b241)  
+* [Kosak Schagdur, der Verfasser und der Lama Schereb als mongolische Pilger](ch015.xhtml#b248) (Separatbild)
+* [Der Verfasser als mongolischer Pilger verkleidet](ch015.xhtml#b252) (Separatbild)
 * Die drei Pilger beim Aufbruche aus dem Hauptquartier.
 * Ein nächtlicher Überfall (Separatbild)
 * Lager der drei Pilger E(Sparatbild)
