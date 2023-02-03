@@ -98,9 +98,9 @@
 * [Bahnen eines Wegs von der Eisscholle hinunter](ch015.xhtml#b241)  
 * [Kosak Schagdur, der Verfasser und der Lama Schereb als mongolische Pilger](ch015.xhtml#b248) (Separatbild)
 * [Der Verfasser als mongolischer Pilger verkleidet](ch015.xhtml#b252) (Separatbild)
-* Die drei Pilger beim Aufbruche aus dem Hauptquartier.
-* Ein nächtlicher Überfall (Separatbild)
-* Lager der drei Pilger E(Sparatbild)
+* [Die drei Pilger beim Aufbruche aus dem Hauptquartier](ch016.xhtml#b254)
+* [Ein nächtlicher Überfall](ch016.xhtml#b260) (Separatbild)
+* Lager der drei Pilger (Separatbild)
 * Ein junger tibetischer Hirt
 * Tibetische Frau
 * Älterer Tibeter
