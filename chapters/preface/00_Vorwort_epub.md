@@ -100,11 +100,11 @@
 * [Der Verfasser als mongolischer Pilger verkleidet](ch015.xhtml#b252) (Separatbild)
 * [Die drei Pilger beim Aufbruche aus dem Hauptquartier](ch016.xhtml#b254)
 * [Ein nächtlicher Überfall](ch016.xhtml#b260) (Separatbild)
-* Lager der drei Pilger (Separatbild)
-* Ein junger tibetischer Hirt
-* Tibetische Frau
-* Älterer Tibeter
-* Auf dem Wege nach Lhasa in strömendem Regen (Separatbild)
+* [Lager der drei Pilger](ch017.xhtml#b272)  (Separatbild)
+* [Ein junger tibetischer Hirt](ch017.xhtml#b277) 
+* [Tibetische Frau](ch017.xhtml#b278)
+* [Älterer Tibeter](ch017.xhtml#b279)
+* [Auf dem Wege nach Lhasa in strömendem Regen](ch017.xhtml#b280) (Separatbild)
 * Mann aus einer tibetischen Karawane
 * Eine Gruppe Tibeter
 * Der Lama im Gespräche mit Tibetern
