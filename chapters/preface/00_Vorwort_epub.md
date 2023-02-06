@@ -105,10 +105,10 @@
 * [Tibetische Frau](ch017.xhtml#b278)
 * [Älterer Tibeter](ch017.xhtml#b279)
 * [Auf dem Wege nach Lhasa in strömendem Regen](ch017.xhtml#b280) (Separatbild)
-* Mann aus einer tibetischen Karawane
-* Eine Gruppe Tibeter
-* Der Lama im Gespräche mit Tibetern
-* Ein Lama mit Gebettronmmel
+* [Mann aus einer tibetischen Karawane](ch018.xhtml#b291)
+* [Eine Gruppe Tibeter](ch018.xhtml#b299)
+* [Der Lama im Gespräche mit Tibetern](ch018.xhtml#b303)
+* Ein Lama mit Gebettrommel
 * Die Tibeter schwangen ihre Lanzen und Speere über dem Kopfe und heulten wie die Wilden (Separatbild)
 * Die. tibetischen Reiter
 * Tibetischer Soldat
