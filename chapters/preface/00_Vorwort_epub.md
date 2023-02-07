@@ -108,16 +108,16 @@
 * [Mann aus einer tibetischen Karawane](ch018.xhtml#b291)
 * [Eine Gruppe Tibeter](ch018.xhtml#b299)
 * [Der Lama im Gespräche mit Tibetern](ch018.xhtml#b303)
-* Ein Lama mit Gebettrommel
-* Die Tibeter schwangen ihre Lanzen und Speere über dem Kopfe und heulten wie die Wilden (Separatbild)
-* Die. tibetischen Reiter
-* Tibetischer Soldat
-* Zelte tibetischer Häuptlinge
-* Tibetische Kavallerie
-* Trompetende Lamas
-* Posaunenblasende Lamas
-* Lama, Trommel und Becken schlagend
-* Lesender Lama 
+* [Ein Lama mit Gebettrommel](ch019.xhtml#b307)
+* [Die Tibeter schwangen ihre Lanzen und Speere über dem Kopfe und heulten wie die Wilden](ch019.xhtml#b310) (Separatbild)
+* [Die tibetischen Reiter](ch019.xhtml#b311)
+* [Tibetischer Soldat](ch019.xhtml#b315)
+* [Zelte tibetischer Häuptlinge](ch019.xhtml#b321)
+* [Tibetische Kavallerie](ch019.xhtml#b328)
+* [Trompetende Lamas](ch019.xhtml#b328a)
+* [Posaunenblasende Lamas](ch019.xhtml#b329)
+* [Lama, Trommel und Becken schlagend](ch019.xhtml#b330)
+* [Lesender Lama](ch019.xhtml#b331)
 * Tibetische Schützen (Separatbild)
 * Tibetische Soldaten
 * Tibeterinnen
@@ -125,7 +125,7 @@
 * Von Sirkin erlegter Köttmek.
 * Hirten von Dschansung im Gespräch mit dem Lama im Lager (Separatbild)
 * Gefrorenes Wild
-* Die Nomadenzelte in der Bergschlucchchh......
+* Die Nomadenzelte in der Bergschlucht
 * Der Lama als Gehilfe beim Photographieren der Hirten  (Separatbild)
 * Kalpets Bett auf dem Kamelrücken
 * Unser Lager am Jaggju-rappga
