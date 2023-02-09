@@ -118,11 +118,11 @@
 * [Posaunenblasende Lamas](ch019.xhtml#b329)
 * [Lama, Trommel und Becken schlagend](ch019.xhtml#b330)
 * [Lesender Lama](ch019.xhtml#b331)
-* Tibetische Schützen (Separatbild)
-* Tibetische Soldaten
-* Tibeterinnen
-* Zwei tibetische Hirtenknaben
-* Von Sirkin erlegter Köttmek.
+* [Tibetische Schützen](ch020.xhtml#b336) (Separatbild)
+* [Tibetische Soldaten](ch020.xhtml#b337)
+* [Tibeterinnen](ch020.xhtml#b341)
+* [Zwei tibetische Hirtenknaben](ch020.xhtml#b343)
+* Von Sirkin erlegter Köttmek
 * Hirten von Dschansung im Gespräch mit dem Lama im Lager (Separatbild)
 * Gefrorenes Wild
 * Die Nomadenzelte in der Bergschlucht
