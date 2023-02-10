@@ -122,11 +122,11 @@
 * [Tibetische Soldaten](ch020.xhtml#b337)
 * [Tibeterinnen](ch020.xhtml#b341)
 * [Zwei tibetische Hirtenknaben](ch020.xhtml#b343)
-* Von Sirkin erlegter Köttmek
-* Hirten von Dschansung im Gespräch mit dem Lama im Lager (Separatbild)
-* Gefrorenes Wild
-* Die Nomadenzelte in der Bergschlucht
-* Der Lama als Gehilfe beim Photographieren der Hirten  (Separatbild)
+* [Von Sirkin erlegter Köttmek](ch022.xhtml#b364)
+* [Hirten von Dschansung im Gespräch mit dem Lama im Lager](ch022.xhtml#b365) (Separatbild)
+* [Gefrorenes Wild](ch022.xhtml#b366)
+* [Die Nomadenzelte in der Bergschlucht](ch022.xhtml#b367)
+* [Der Lama als Gehilfe beim Photographieren der Hirten](ch022.xhtml#b368)  (Separatbild)
 * Kalpets Bett auf dem Kamelrücken
 * Unser Lager am Jaggju-rappga
 „. . . und jagten dann in wildem Laufe vor, hinter und durch die Zelte, als wollten sie uns niederreiten!" (bunte Tafel)
