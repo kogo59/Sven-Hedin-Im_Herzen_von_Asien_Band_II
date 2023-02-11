@@ -127,14 +127,59 @@
 * [Gefrorenes Wild](ch022.xhtml#b366)
 * [Die Nomadenzelte in der Bergschlucht](ch022.xhtml#b367)
 * [Der Lama als Gehilfe beim Photographieren der Hirten](ch022.xhtml#b368)  (Separatbild)
-* Kalpets Bett auf dem Kamelrücken
-* Unser Lager am Jaggju-rappga
-„. . . und jagten dann in wildem Laufe vor, hinter und durch die Zelte, als wollten sie uns niederreiten!" (bunte Tafel)
-* Das Lazarettzelt
-* Der tote Kalpet auf seinem lebenden Katafalk (Separatbild)
-* Der Leichenzug
-* Kalpets Grab (Separatbild)
-* Hladsche Tsering, das Mitglied des Heiligen Rates, seine Pfeife rauchend
+* [Kalpets Bett auf dem Kamelrücken](ch023.xhtml#b379)
+* [Unser Lager am Jaggju-rappga](ch023.xhtml#b381)
+* [„. . . und jagten dann in wildem Laufe vor, hinter und durch die Zelte, als wollten sie uns niederreiten!"](ch023.xhtml#b384) (bunte Tafel)
+* [Das Lazarettzelt](ch023.xhtml#b387)
+* [Der tote Kalpet auf seinem lebenden Katafalk](ch023.xhtml#b388) (Separatbild)
+* [Der Leichenzug](ch023.xhtml#b391)
+* [Kalpets Grab](ch023.xhtml#b392) (Separatbild)
+* [Hladsche Tsering, das Mitglied des Heiligen Rates, seine Pfeife rauchend](ch023.xhtml#b399)
+* [Die Gouverneure Hladsche Tsering und Junduk Tsering](ch023.xhtml#b400)
+* [Hladsche Tsering und Junduk Tsering](ch023.xhtml#b401)
+* Blick nach Westen am Strande des Tschargut-tso
+* Die Garde der tibetischen Gesandten am Tschargut-tso. (Separatbild)
+* Tibetische Soldaten beim Spiel am Tschargut-tso
+* Unser Lager auf der Insel
+* Im Kampf mit Wogen und Wind auf dem Tschargut-tso  (Separatbild)
+* Das südliche Felsufer unseres Gefängnisses
+* Die Zelte der Gouverneure
+* Die Anführer unserer Leibwache (Separatbild)
+* Das Ufer des Flusses Boggtsang-sangpo (Südwestansicht)
+* Das Tal des Boggtsang-sangpo
+* Gebirge im Norden des Lagers Nr. XCII
+* Schagdur und Ordek fischen im Boggtsang-sangpo
+* Gebirge im Norden des Lagers Nr. XCII
+* Die Yake werden beladen
+* Das Lager Nr. CIII am Quellbache
+* Lager am westlichen Lakkor-tso (Separatbild)
+* Einkleidung der Leiche Muhammed Toktas
+* Das Gebirge auf der nördlichen Talseite bei Lager Nr. CXIV
+* Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV
+* Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV
+* Das Nordufer des Tsolla-ring-tso
+* Lager an einem zugefrorenen Sumpfe (Anfang November)
+* Landschaft in Westtibet
+* Der Lama im Streite mit dem Anführer der Karawane
+* Aussicht nach Südosten vom Lager Nr. CXXIX
+* Die Umgebung des Lagers vom 21. und 22. November
+* Offene Landschaft am Tsangar-schar
+* Das Tempeldorf Noh
+* Geröllterrassen
+* Doppelte Geröllterrassen
+* Unser erster Lagerplatz am Tso-ngombo
+* Die Kosaken angeln während des Marsches
+* Blick nach Süden auf den mittelsten Tso-ngombo
+* Der mittelste Teil des Tso-ngombo
+* Eine schwierige Passage am Ufer des Tso-ngombo
+* Beförderung des Gepäcks auf einem improvisierten Schlitten über das Eis
+* Das Boot als Schlitten auf dem Tso-ngombo
+* Der gefährliche Felsenpfad
+* Am westlichen Tso-ngombo
+* Am Panggong-tso (Separatbild)
+* Gulang Hiraman, der Gesandte des Statthalters von Ladak, mit seinem Gefolge (Separatbild)
+* Lager vom 16. Dezember
+* Gulang Hiraman auf seinem Pony (Separatbild)
 
 
 

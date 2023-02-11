@@ -1,4 +1,4 @@
-# Zwanzigstes Kapitel.<br />Der Zug nach Süden. {#zwamzig .unnumbered }
+# Zwanzigstes Kapitel.<br />Der Zug nach Süden. {#zwanzig .unnumbered }
 
 ::: justified
 
