@@ -137,7 +137,7 @@
 * [Hladsche Tsering, das Mitglied des Heiligen Rates, seine Pfeife rauchend](ch023.xhtml#b399)
 * [Die Gouverneure Hladsche Tsering und Junduk Tsering](ch023.xhtml#b400)
 * [Hladsche Tsering und Junduk Tsering](ch023.xhtml#b401)
-* Blick nach Westen am Strande des Tschargut-tso
+* [Blick nach Westen am Strande des Tschargut-tso](ch023.xhtml#b417)
 * Die Garde der tibetischen Gesandten am Tschargut-tso. (Separatbild)
 * Tibetische Soldaten beim Spiel am Tschargut-tso
 * Unser Lager auf der Insel
