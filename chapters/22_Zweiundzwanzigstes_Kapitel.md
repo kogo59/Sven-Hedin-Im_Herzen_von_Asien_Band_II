@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 **A**m 14. September verließ ich das Lager, um eine der herrlichsten Seefahrten
 anzutreten. Ich ritt mit Kutschuk westwärts nach dem naheliegenden Ufer des
 Nakktsong-tso; das Boot wurde auf einem Kamele hinbefördert. Die Tibeter ließen

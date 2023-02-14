@@ -137,14 +137,14 @@
 * [Hladsche Tsering, das Mitglied des Heiligen Rates, seine Pfeife rauchend](ch023.xhtml#b399)
 * [Die Gouverneure Hladsche Tsering und Junduk Tsering](ch023.xhtml#b400)
 * [Hladsche Tsering und Junduk Tsering](ch023.xhtml#b401)
-* [Blick nach Westen am Strande des Tschargut-tso](ch023.xhtml#b417)
-* Die Garde der tibetischen Gesandten am Tschargut-tso. (Separatbild)
-* Tibetische Soldaten beim Spiel am Tschargut-tso
-* Unser Lager auf der Insel
-* Im Kampf mit Wogen und Wind auf dem Tschargut-tso  (Separatbild)
-* Das südliche Felsufer unseres Gefängnisses
-* Die Zelte der Gouverneure
-* Die Anführer unserer Leibwache (Separatbild)
+* [Blick nach Westen am Strande des Tschargut-tso](ch024.xhtml#b417)
+* [Die Garde der tibetischen Gesandten am Tschargut-tso](ch025.xhtml#b420) (Separatbild)
+* [Tibetische Soldaten beim Spiel am Tschargut-tso](ch025.xhtml#b421)
+* [Unser Lager auf der Insel](ch025.xhtml#b423)
+* [Im Kampf mit Wogen und Wind auf dem Tschargut-tso](ch025.xhtml#b424)  (Separatbild)
+* [Das südliche Felsufer unseres Gefängnisses](ch025.xhtml#b425)
+* [Die Zelte der Gouverneure](ch025.xhtml#b433)
+* [Die Anführer unserer Leibwache](ch025.xhtml#b434) (Separatbild)
 * Das Ufer des Flusses Boggtsang-sangpo (Südwestansicht)
 * Das Tal des Boggtsang-sangpo
 * Gebirge im Norden des Lagers Nr. XCII
