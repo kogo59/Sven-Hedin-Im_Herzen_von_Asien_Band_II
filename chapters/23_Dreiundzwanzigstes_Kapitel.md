@@ -1,4 +1,4 @@
-# Dreiundzwanzigstes Kapitel.<br />Der Tschargut- tso. {#dreiundzwanzig .unnumbered }
+# Dreiundzwanzigstes Kapitel.<br />Der Tschargut-tso. {#dreiundzwanzig .unnumbered }
 
 ::: justified
 

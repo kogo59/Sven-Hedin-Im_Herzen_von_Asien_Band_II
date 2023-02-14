@@ -145,14 +145,14 @@
 * [Das südliche Felsufer unseres Gefängnisses](ch025.xhtml#b425)
 * [Die Zelte der Gouverneure](ch025.xhtml#b433)
 * [Die Anführer unserer Leibwache](ch025.xhtml#b434) (Separatbild)
-* Das Ufer des Flusses Boggtsang-sangpo (Südwestansicht)
-* Das Tal des Boggtsang-sangpo
-* Gebirge im Norden des Lagers Nr. XCII
-* Schagdur und Ordek fischen im Boggtsang-sangpo
-* Gebirge im Norden des Lagers Nr. XCII
-* Die Yake werden beladen
-* Das Lager Nr. CIII am Quellbache
-* Lager am westlichen Lakkor-tso (Separatbild)
+* [Das Ufer des Flusses Boggtsang-sangpo](ch026.xhtml#b437) (Südwestansicht)
+* [Das Tal des Boggtsang-sangpo](ch026.xhtml#b439)
+* [Gebirge im Norden des Lagers Nr. XCII](ch026.xhtml#b441)
+* [Schagdur und Ordek fischen im Boggtsang-sangpo](ch026.xhtml#b442)
+* [Gebirge im Norden des Lagers Nr. XCII](ch026.xhtml#b443)
+* [Die Yake werden beladen](ch026.xhtml#b447)
+* [Das Lager Nr. CIII am Quellbache](ch026.xhtml#b451)
+* [Lager am westlichen Lakkor-tso](ch026.xhtml#b452) (Separatbild)
 * Einkleidung der Leiche Muhammed Toktas
 * Das Gebirge auf der nördlichen Talseite bei Lager Nr. CXIV
 * Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV
