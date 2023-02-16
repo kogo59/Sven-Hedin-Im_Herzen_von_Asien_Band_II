@@ -153,13 +153,13 @@
 * [Die Yake werden beladen](ch026.xhtml#b447)
 * [Das Lager Nr. CIII am Quellbache](ch026.xhtml#b451)
 * [Lager am westlichen Lakkor-tso](ch026.xhtml#b452) (Separatbild)
-* Einkleidung der Leiche Muhammed Toktas
-* Das Gebirge auf der nördlichen Talseite bei Lager Nr. CXIV
-* Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV
-* Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV
-* Das Nordufer des Tsolla-ring-tso
-* Lager an einem zugefrorenen Sumpfe (Anfang November)
-* Landschaft in Westtibet
+* [Einkleidung der Leiche Muhammed Toktas](ch026.xhtml#b457)
+* [Das Gebirge auf der nördlichen Talseite bei Lager Nr. CXIV](ch026.xhtml#b461)
+* [Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV](ch026.xhtml#b463)
+* [Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV](ch026.xhtml#b465)
+* [Das Nordufer des Tsolla-ring-tso](ch026.xhtml#b469)
+* [Lager an einem zugefrorenen Sumpfe (Anfang November)](ch026.xhtml#b471)
+* [Landschaft in Westtibet.](ch026.xhtml#b473)
 * Der Lama im Streite mit dem Anführer der Karawane
 * Aussicht nach Südosten vom Lager Nr. CXXIX
 * Die Umgebung des Lagers vom 21. und 22. November
