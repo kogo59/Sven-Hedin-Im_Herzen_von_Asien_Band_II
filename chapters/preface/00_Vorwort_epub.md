@@ -153,29 +153,29 @@
 * [Die Yake werden beladen](ch026.xhtml#b447)
 * [Das Lager Nr. CIII am Quellbache](ch026.xhtml#b451)
 * [Lager am westlichen Lakkor-tso](ch026.xhtml#b452) (Separatbild)
-* [Einkleidung der Leiche Muhammed Toktas](ch026.xhtml#b457)
-* [Das Gebirge auf der nördlichen Talseite bei Lager Nr. CXIV](ch026.xhtml#b461)
-* [Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV](ch026.xhtml#b463)
-* [Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV](ch026.xhtml#b465)
-* [Das Nordufer des Tsolla-ring-tso](ch026.xhtml#b469)
-* [Lager an einem zugefrorenen Sumpfe (Anfang November)](ch026.xhtml#b471)
-* [Landschaft in Westtibet.](ch026.xhtml#b473)
-* Der Lama im Streite mit dem Anführer der Karawane
-* Aussicht nach Südosten vom Lager Nr. CXXIX
-* Die Umgebung des Lagers vom 21. und 22. November
-* Offene Landschaft am Tsangar-schar
-* Das Tempeldorf Noh
-* Geröllterrassen
-* Doppelte Geröllterrassen
-* Unser erster Lagerplatz am Tso-ngombo
-* Die Kosaken angeln während des Marsches
-* Blick nach Süden auf den mittelsten Tso-ngombo
-* Der mittelste Teil des Tso-ngombo
-* Eine schwierige Passage am Ufer des Tso-ngombo
-* Beförderung des Gepäcks auf einem improvisierten Schlitten über das Eis
-* Das Boot als Schlitten auf dem Tso-ngombo
-* Der gefährliche Felsenpfad
-* Am westlichen Tso-ngombo
+* [Einkleidung der Leiche Muhammed Toktas](ch027.xhtml#b457)
+* [Das Gebirge auf der nördlichen Talseite bei Lager Nr. CXIV](ch027.xhtml#b461)
+* [Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV](ch027.xhtml#b463)
+* [Das Gebirge auf der südlichen Talseite bei Lager Nr. CXIV](ch027.xhtml#b465)
+* [Das Nordufer des Tsolla-ring-tso](ch027.xhtml#b469)
+* [Lager an einem zugefrorenen Sumpfe (Anfang November)](ch027.xhtml#b471)
+* [Landschaft in Westtibet.](ch027.xhtml#b473)
+* [Der Lama im Streite mit dem Anführer der Karawane](ch028.xhtml#b476)
+* [Aussicht nach Südosten vom Lager Nr. CXXIX](ch028.xhtml#b477)
+* [Die Umgebung des Lagers vom 21. und 22. November](ch028.xhtml#b478)
+* [Offene Landschaft am Tsangar-schar](ch028.xhtml#b479)
+* [Das Tempeldorf Noh](ch028.xhtml#b481)
+* [Geröllterrassen](ch028.xhtml#b483)
+* [Doppelte Geröllterrassen](ch028.xhtml#b485)
+* [Unser erster Lagerplatz am Tso-ngombo](ch028.xhtml#b487)
+* [Die Kosaken angeln während des Marsches](ch028.xhtml#b488)
+* [Blick nach Süden auf den mittelsten Tso-ngombo](ch028.xhtml#b489)
+* [Der mittelste Teil des Tso-ngombo](ch028.xhtml#b491)
+* [Eine schwierige Passage am Ufer des Tso-ngombo](ch028.xhtml#b493)
+* [Beförderung des Gepäcks auf einem improvisierten Schlitten über das Eis](ch028.xhtml#b495)
+* [Das Boot als Schlitten auf dem Tso-ngombo](ch028.xhtml#b496)
+* [Der gefährliche Felsenpfad](ch028.xhtml#b497)
+* [Am westlichen Tso-ngombo](ch028.xhtml#b498)
 * Am Panggong-tso (Separatbild)
 * Gulang Hiraman, der Gesandte des Statthalters von Ladak, mit seinem Gefolge (Separatbild)
 * Lager vom 16. Dezember
