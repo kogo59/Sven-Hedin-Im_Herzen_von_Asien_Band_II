@@ -176,10 +176,36 @@
 * [Das Boot als Schlitten auf dem Tso-ngombo](ch028.xhtml#b496)
 * [Der gefährliche Felsenpfad](ch028.xhtml#b497)
 * [Am westlichen Tso-ngombo](ch028.xhtml#b498)
-* Am Panggong-tso (Separatbild)
-* Gulang Hiraman, der Gesandte des Statthalters von Ladak, mit seinem Gefolge (Separatbild)
-* Lager vom 16. Dezember
-* Gulang Hiraman auf seinem Pony (Separatbild)
+* [Am Panggong-tso](ch029.xhtml#b501) (Separatbild)
+* [Gulang Hiraman, der Gesandte des Statthalters von Ladak, mit seinem Gefolge](ch029.xhtml#b502) (Separatbild)
+* [Lager vom 16. Dezember](ch029.xhtml#b505) 
+* [Gulang Hiraman auf seinem Pony](ch029.xhtml#b507)  (Separatbild)
+* [Musikanten und Tänzer in Drugub](ch029.xhtml#b507a)
+* [Tempelhof in Tikkse](ch029.xhtml#b509)
+* [Lamas in Tikkse mit ihrem Prior](ch029.xhtml#b510)
+* [Buddhistischer Tempel auf dem Felsen von Tantsi](ch029.xhtml#b510a) (Separatbild)
+* [Aussicht vom Kloster in Tikkse](ch029.xhtml#b511)
+* [Alter Mann aus Ladak](ch029.xhtml#b513)
+* [Ankunft der einzigen überlebenden Kamele in Leh](ch029.xhtml#b514) (Separatbild)
+* Hütten unterhalb Baltal
+* Se. Exzell. George Nathangel Lord Curzon, Vizekönig von Indien  (Separatbild)
+* Schneesturm auf dem Passe Sodschi-la (Separatbild)
+* Unser Zug nach dem Sodschila hinauf
+* Tänzerin im Kargil
+* Junge Frau in Ladak
+* Der Prior von Hemis 
+* Leh, die Hauptstadt von Ladakk (Separatbild)
+* Tempelhof in Hemis
+* Portal von Doggtsang Raspas Tempelsaal
+* Doggtsang Raspa
+* Lama in Festkleidung
+* Die Küche in Hemis
+* Lama in Maske
+* Im Schejoktal
+* Mein Reityak auf dem Wege nach dem Kara-korum
+* Der Kitschik-kumdan-Paß in der Nähe des Kara-korum
+* Ein Teil des Kitschik-kumdan-Gletschers beim Kara-korum-Passe
+* Flötenspieler in Schejok
 
 
 

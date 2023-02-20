@@ -551,7 +551,7 @@ war jetzt auch schwach geworden. Der See ist hier vollständig eisfrei; er frier
 augenscheinlich von Osten nach Westen zu.
 
 :::: { .wrap-80 }
-![Am westlichen Tso-ngombo](Im_Herzen_von_Asien_II_498.jpg "Am westlichen Tso-ngombo."){#b498}
+![Am westlichen Tso-ngombo.](Im_Herzen_von_Asien_II_498.jpg "Am westlichen Tso-ngombo."){#b498}
 ::::
 
 Jetzt verschmälerte sich der Tso-ngombo wieder und ging schließlich in den Fluß
