@@ -187,8 +187,8 @@
 * [Aussicht vom Kloster in Tikkse](ch029.xhtml#b511)
 * [Alter Mann aus Ladak](ch029.xhtml#b513)
 * [Ankunft der einzigen überlebenden Kamele in Leh](ch029.xhtml#b514) (Separatbild)
-* Hütten unterhalb Baltal
-* Se. Exzell. George Nathangel Lord Curzon, Vizekönig von Indien  (Separatbild)
+* [Hütten unterhalb Baltal](ch030.xhtml#b519)
+* [Se. Exzell. George Nathangel Lord Curzon, Vizekönig von Indien](ch030.xhtml#b524)  (Separatbild)
 * Schneesturm auf dem Passe Sodschi-la (Separatbild)
 * Unser Zug nach dem Sodschila hinauf
 * Tänzerin im Kargil
