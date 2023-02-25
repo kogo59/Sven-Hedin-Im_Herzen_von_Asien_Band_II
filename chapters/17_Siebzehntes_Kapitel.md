@@ -307,7 +307,7 @@ beruhigend, und ich begann wieder daran zu zweifeln, daß die Mobilmachung
 unserem Hauptquartiere gelte. Ferner war die Nachricht gekommen, daß Kamba Bombo
 von Nakktschu und Nanso Lama unterwegs seien und morgen hier eintreffen würden.
 
-Darauf begann das Kreuzverhör von neuem, aber jetzt erkläͤrte ich rund heraus,
+Darauf begann das Kreuzverhör von neuem, aber jetzt erklärte ich rund heraus,
 daß sie sich gefälligst gedulden möchten, bis Kamba Bombo angelangt sei; er
 solle alles erfahren, was er zu wissen brauche, sie jedoch gehe es gar nichts
 an, wer wir seien. Wenn sie nicht aufhörten, uns tagtäglich mit denselben

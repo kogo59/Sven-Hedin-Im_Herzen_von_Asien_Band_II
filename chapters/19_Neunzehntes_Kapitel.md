@@ -135,7 +135,7 @@ Unser Räubersee lag jetzt eine ziemliche Strecke rechts von unserem Wege. Einig
 Maulesel waren vollständig erschöpft, und zwischen 2 und 4 Uhr mußten wir auf
 einer dünn mit Gras bewachsenen Halde rasten, um sie ausruhen zu lassen.
 Unterdessen schlummerten und rauchten wir im Sonnenbrande. Die Luft war ruhig,
-und das Thermometer zeigte ＋ 19,<small>6</small>° im Schatten; bei dieser
+und das Thermometer zeigte ＋19,<small>6</small>° im Schatten; bei dieser
 Temperatur ist es hier oben so heiß, daß man fürchtet, einen Sonnenstich zu
 bekommen. Bald darauf kam eine Hagelbö, und wir waren wieder mitten im Winter.
 Es ging langsamer und schwerer als je, nach dieser Rast wieder in Gang zu

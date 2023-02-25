@@ -184,7 +184,7 @@ tief eingeschnittene Rinne das Wasser abfließen läßt, das gelegentlich einmal
 auf diese trockenen Höhen herabregnet. Den ganzen Tag führte der Talgrund
 langsam aufwärts; er war so eben wie eine Asphaltstraße, machte aber scharfe
 Biegungen, in denen ich selten längere Peilungen als drei Minuten in derselben
-Richtung machen konnte, bis ein neuer Vorsprung die Aus sicht auf die nächste
+Richtung machen konnte, bis ein neuer Vorsprung die Aussicht auf die nächste
 Talbiegung verdeckte.
 
 Das Material, aus dem der Akato-tag in dieser Gegend aufgebaut ist, besteht

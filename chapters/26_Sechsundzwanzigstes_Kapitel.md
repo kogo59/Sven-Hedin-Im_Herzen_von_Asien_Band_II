@@ -140,7 +140,7 @@ klaren Himmels gründlich überdrüssig. Wir hatten bis Leh noch 400 Kilometer.
 Alle sehnten sich dorthin, besonders ich, denn ich hoffte, noch vor Weihnachten
 ein Telegramm nach Stockholm senden zu können.
 
-In der Nacht auf den 21. November sank die Kälte auf — 28,<small>2</small>°. Wir
+In der Nacht auf den 21. November sank die Kälte auf —28,<small>2</small>°. Wir
 marschierten 28,<small>1</small> Kilometer nach einer Gegend, die reich an herrlichem
 Brennmateriale, aber wasserlos war. Daher mußte mit Yaken aus einiger Entfernung
 Eis geholt werden, das über dem Feuer geschmolzen wurde. In der Nacht heulten

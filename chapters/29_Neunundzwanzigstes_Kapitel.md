@@ -1,4 +1,4 @@
-# Neunundzwanzigstes Kapitel.<br />Über das Kloster Hemis heimwärts.. {#neunundzwanzig .unnumbered }
+# Neunundzwanzigstes Kapitel.<br />Über das Kloster Hemis heimwärts. {#neunundzwanzig .unnumbered }
 
 ::: justified
 

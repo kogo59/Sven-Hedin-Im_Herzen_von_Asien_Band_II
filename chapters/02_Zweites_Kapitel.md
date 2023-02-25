@@ -18,7 +18,7 @@ fallen und dadurch die Wucht des Anpralls dämpfen. Schagdurs Opfer gehorchte
 diesem Gesetze sogar im Tode, denn er schlug mit den Hörnern polternd auf das
 Geröll auf. Unser Weg war lang gewesen, und im Lager war viel zu tun. Erst um
 Mitternacht kamen die Leute mit dem Archari, das sie auf ein Kamel geladen
-hatten, an. Es war mörderisch kalt in dem Winde, — 28,<small>5</small>°. Man
+hatten, an. Es war mörderisch kalt in dem Winde, —28,<small>5</small>°. Man
 glaubte, die Kälte in der klaren Nachtluft förmlich zittern zu sehen, und der
 Mond stand hoch und hell über den Schneefeldern der Gebirge.
 
@@ -423,8 +423,8 @@ Wüstengegenden hineinzuwagen, ohne mit einem genügenden Eisvorrate versehen zu
 sein. Der nächste Brunnen im Westen war der *Tograk-kuduk* Pappelbrunnen); dort
 sollte das Wasser nach Mollahs Versicherung gut sein. Wir begaben uns also
 dorthin und ruhten einen Tag, an dem ein bedeutender Eisvorrat von dem Brunnen
-geholt wurde. Es war keine Kunst, die Säcke zu füllen, da die Kälte noch —
-27,<small>5</small>° betrug. Bei Tag war es allerdings nur ein paar Grad kalt.
+geholt wurde. Es war keine Kunst, die Säcke zu füllen, da die Kälte noch
+—27,<small>5</small>° betrug. Bei Tag war es allerdings nur ein paar Grad kalt.
 
 :::: {.wrap-100 }
 ![Brunnen, von Schagdur und Chodai Kullu in der letzten Oase gegraben. Im Hintergrunde sieht man die letzten, in die Gobi sich erstreckenden Ausläufer des Kurruk-tag.](Im_Herzen_von_Asien_II_043.jpg "Brunnen, von Schagdur und Chodai Kullu in der letzten Oase gegraben."){#b043}

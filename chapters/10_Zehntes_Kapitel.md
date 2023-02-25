@@ -333,7 +333,7 @@ linke Ufer des größten Flusses, den wir seit langer Zeit gesehen haben. Er ist
 wasserreich, und große Eisschollen glänzen in seinem Bette. Auf einer Anhöhe, wo
 das erste junge Gras dieses Jahres sproßte, wurde Halt kommandiert. Ich ging bis
 an den Rand des Ufers und befand mich da über einem gähnenden Abgrund mit meist
-völlig senkrechten Geröllwänden von 23, Meter Höhe. Eine solche Stelle ist für
+völlig senkrechten Geröllwänden von 23,<small>1</small> Meter Höhe. Eine solche Stelle ist für
 die wenig überlegenden Kamele gefährlich. Das lose Erdreich am Rande kann unter
 ihrem Gewichte nachgeben und die Tiere können dabei in die Tiefe stürzen. Sie
 wurden deshalb nach einem sichereren Tale zurückgeführt. Turdu Bai bugsierte das
@@ -468,9 +468,9 @@ wir endlich auf einem bequemen, flachen Passe den Kamm der Kette, die uns in den
 letzten Tagen die freie Aussicht nach Süden versperrt hatte. Von hier aus zeigte
 sich auf einmal die Möglichkeit für eine gute Tagereise nach Süden. Im Südwesten
 aber erhob sich eine vom Scheitel bis zur Sohle in Schnee gehüllte Bergkette,
-die nur unser alter Feind, der Arka-tag, sein konnte. Zwischen den beiden Berg
-ketten, aber der, auf welcher wir uns befanden, näher liegend, dehnte sich ein
-abflußloses Becken aus, dessen Mitte ein kleiner, vollständig zugefrorener
+die nur unser alter Feind, der Arka-tag, sein konnte. Zwischen den beiden
+Bergketten, aber der, auf welcher wir uns befanden, näher liegend, dehnte sich
+ein abflußloses Becken aus, dessen Mitte ein kleiner, vollständig zugefrorener
 Süßwassersee bildete. Die Weide an seinen Ufern lud um so mehr zum Rasten ein,
 als wir jetzt wieder Kundschafter ausschicken mußten. Am nächsten Morgen in
 aller Frühe sollten drei Mann sich aufmachen. Entdeckten sie nach einem Ritte

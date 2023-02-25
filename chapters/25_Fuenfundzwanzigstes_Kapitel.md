@@ -332,7 +332,7 @@ Tscharchlik-su, beim Antritt unserer Reise durch Tibet, gehabt hatten. Das Gras
 war hoch, weich und üppig, obwohl gefroren, und vorzügliches Brennholz und
 Wasser gab es in Menge. Große lodernde Lagerfeuer machten den Platz hell,
 gemütlich und warm; es war auch nötig, denn in dieser Nacht sank die Temperatur
-auf — 20,<small>1</small>. Alle Kamele, außer der jungen Mutter, erreichten das
+auf —20,<small>1</small>°. Alle Kamele, außer der jungen Mutter, erreichten das
 Lager. Diese wurde am Ufer zurückgelassen, nachdem ich eine ganze Weile versucht
 hatte, sie wieder auf die Beine zu bringen, und sie das Strohpolster ihres
 Packsattels hatte fressen lassen. Schon am selben Abend, als sie abgeholt werden

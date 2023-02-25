@@ -163,9 +163,10 @@ die Erde ein paar Stunden gefroren bleibt, dann aber taut sie wieder auf.
 
 Unsere Richtung führt jetzt fast ganz nach Westen, denn wir folgen noch immer
 dem Längentale, das mit dem Südfuße des Arka-tag parallel läuft. Wir legten nur
-19, Kilometer zurück. Mein erstes Ziel ist der See, an dem wir am 28. und 29.
-September 1900 gelagert und bei dem ich damals eine astronomische Ortsbestimmung
-gemacht hatte, an die ich jetzt die neue Observationskette anknüpfen wollte.
+19,<small>1</small> Kilometer zurück. Mein erstes Ziel ist der See, an dem wir
+am 28. und 29. September 1900 gelagert und bei dem ich damals eine astronomische
+Ortsbestimmung gemacht hatte, an die ich jetzt die neue Observationskette
+anknüpfen wollte.
 
 Der Marsch war einförmig, wie er es in diesen breiten, leblosen, sterilen
 Haupttälern, wo eine Tierfährte eine außerordentliche Seltenheit ist, zu sein
