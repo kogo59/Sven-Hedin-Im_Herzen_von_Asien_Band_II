@@ -413,7 +413,7 @@ dem Sodschi-la besondere Vorsichtsmaßregeln getroffen würden.
 
 [^2803]: [*Fotu-la*: vergleiche [Fotu La](https://de.wikipedia.org/wiki/Fotu_La)]{.footnote}
 
-[^2804]: [*Fotu-la*: vergleiche [Namika La](https://de.wikipedia.org/wiki/Namika_La)]{.footnote}
+[^2804]: [*Namika-la*: vergleiche [Namika La](https://de.wikipedia.org/wiki/Namika_La)]{.footnote}
 
 [^2805]: [*Kargil*: vergleiche [Kargil](https://de.wikipedia.org/wiki/Kargil)]{.footnote}
 

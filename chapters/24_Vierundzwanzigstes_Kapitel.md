@@ -243,7 +243,7 @@ Sachen umgepackt. Alle Lasten wurden auseinander genommen und zu kleineren
 Ballen verschnürt, denn der Yak ist einer Kamellast nicht gewachsen.
 
 Schon um 9 Uhr abends hatten wir —10,<small>6</small>°, und nachts
-—17,<small>9</small>°,. Der Winter hatte schon seinen Einzug gehalten, und sein
+—17,<small>9</small>°. Der Winter hatte schon seinen Einzug gehalten, und sein
 Regiment würde nun volle sieben Monate dauern!
 
 Unter dem Vorwand, nach Weide zu suchen, eigentlich aber um nicht denselben Weg

@@ -384,7 +384,7 @@ aufgeschlagen sein, denn es ist mit großen Holzstapeln umzäunt. Bald darauf
 stehen wir an einem Felsvorsprung, der direkt in den See hinunterfällt und die
 erste schwere Stelle bildet, vor der man uns gewarnt hat. Wir lagerten daher
 unmittelbar an der Felswand, und die Kamele wurden nach der Weide zurückgeführt.
-Schon am Abend wurde das Gepäck von unseren Leuten über die Spitze ge- bracht
+Schon am Abend wurde das Gepäck von unseren Leuten über die Spitze gebracht
 und am folgenden Morgen die Tiere an ihr vorbeigeführt. Unterhalb der Spitze
 liegt ein meterbreiter Sandstreifen im Wasser. Wenn hier ein Kamel fallen
 sollte, so konnte es zwar in die Tiefe hinab gleiten, brauchte aber darum noch
@@ -480,8 +480,8 @@ müden Kamele dieses Akrobatenstück fertig gebracht, die meisten aber wären
 sicherlich vom Schwindel ergriffen worden und in den Abgrund gestürzt.
 
 Nein, entweder mußten wir eine Fähre bauen und das dünne Eis aufbrechen, oder
-wir mußten warten, bis das Eis uns trug. Da wir noch um 1 Uhr
-—4,<small>5</small>° hatten, hoffte ich auf den letzteren Ausweg. Um 6 Uhr war
+wir mußten warten, bis das Eis uns trug. Da wir noch um 1 Uhr —4,<small>5</small>°
+hatten, hoffte ich auf den letzteren Ausweg. Um 6 Uhr war
 das Eis schon 5,<small>2</small> Zentimeter dick. Die Kosaken bauten einen
 improvisierten Schlitten aus Kamelleitern, Zeltstangen, Holz und Tauen und
 bedeckten das Ganze mit Filzdecken. Es war Schagdurs kluger Vorschlag, die
