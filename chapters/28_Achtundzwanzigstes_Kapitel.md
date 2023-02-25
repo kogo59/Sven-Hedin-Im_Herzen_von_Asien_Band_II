@@ -397,7 +397,6 @@ Commissioner“ für Ladak ist, telegraphierte nach allen Stationen auf dem Wege
 nach Leh, damit alles zu unserer Reise in Ordnung wäre, und ordnete an, daß auf
 dem Sodschi-la besondere Vorsichtsmaßregeln getroffen würden.
 
-
 :::
 
 :::: align-center

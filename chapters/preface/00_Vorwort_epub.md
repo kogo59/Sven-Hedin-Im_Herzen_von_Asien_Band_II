@@ -80,7 +80,7 @@
 * [Unser Lager in Unkurluk. Blick auf das Nebental](ch011.xhtml#b169) 
 * [Ankauf von Schafen bei den Hirten von Unkurluk](ch011.xhtml#b171) 
 * [Die am Ufer des Kum-köll aufgestapelten Kamellasten](ch011.xhtml#b175) 
-* [Die Kamele am Ufer des Kum-köll](ch012.xhtml#b177) 
+* [Die Kamele am Ufer des Kum-köll](ch011.xhtml#b177) 
 * [Turdu Bais Zelt](ch012.xhtml#b185) 
 * [Erlegter tibetischer Bär](ch012.xhtml#b192) (Separatbild)
 * [Berg beim Lager Nr. XXIV](ch012.xhtml#b193) 
@@ -89,9 +89,9 @@
 * [Eine angeschossene Orongoantilope](ch013.xhtml#b208) (Separatbild)
 * [Weidende Kamele](ch013.xhtml#b213)
 * [Schereb Lama](ch013.xhtml#b215)
-* [Sirkin mit meinem alten Reisekameraden von 1896](ch013.xhtml#b218)
+* [Sirkin mit meinem alten Reisekameraden von 1896](ch013.xhtml#b217)
 * [Die Kamele waten durch den Fluß](ch014.xhtml#b225)
-* [Endlich in einer Gegend mit gutem Wasser](ch014.xhtml#b225)
+* [Endlich in einer Gegend mit gutem Wasser](ch014.xhtml#b227)
 * [Eine magere Weide in dem großen Längentale](ch014.xhtml#b229)
 * [Junger Kulan](ch014.xhtml#b232) (Separatbild)
 * [Die beiden Eisbänder im Tal](ch015.xhtml#b240)  
@@ -189,27 +189,23 @@
 * [Ankunft der einzigen überlebenden Kamele in Leh](ch029.xhtml#b514) (Separatbild)
 * [Hütten unterhalb Baltal](ch030.xhtml#b519)
 * [Se. Exzell. George Nathangel Lord Curzon, Vizekönig von Indien](ch030.xhtml#b524)  (Separatbild)
-* Schneesturm auf dem Passe Sodschi-la (Separatbild)
-* Unser Zug nach dem Sodschila hinauf
-* Tänzerin im Kargil
-* Junge Frau in Ladak
-* Der Prior von Hemis 
-* Leh, die Hauptstadt von Ladakk (Separatbild)
-* Tempelhof in Hemis
-* Portal von Doggtsang Raspas Tempelsaal
-* Doggtsang Raspa
-* Lama in Festkleidung
-* Die Küche in Hemis
-* Lama in Maske
-* Im Schejoktal
-* Mein Reityak auf dem Wege nach dem Kara-korum
-* Der Kitschik-kumdan-Paß in der Nähe des Kara-korum
-* Ein Teil des Kitschik-kumdan-Gletschers beim Kara-korum-Passe
-* Flötenspieler in Schejok
-
-
-
-
+* [Schneesturm auf dem Passe Sodschi-la](ch031.xhtml#b530) (Separatbild)
+* [Unser Zug nach dem Sodschi-la hinauf](ch031.xhtml#b531)
+* [Tänzerin in Kargil](ch031.xhtml#b532)
+* [Junge Frau in Ladak](ch031.xhtml#b533)
+* [Der Prior von Hemis](ch031.xhtml#b534) 
+* [Leh, die Hauptstadt von Ladak](ch031.xhtml#b535a) (Separatbild)
+* [Tempelhof in Hemis](ch031.xhtml#b535)
+* [Portal von Doggtsang Raspas Tempelsaal](ch031.xhtml#b536)
+* [Doggtsang Raspa](ch031.xhtml#b537)
+* [Lama in Festkleidung](ch031.xhtml#b538)
+* [Die Küche in Hemis](ch031.xhtml#b539)
+* [Lama in Maske](ch031.xhtml#b541)
+* [Im Schejoktal](ch031.xhtml#b542)
+* [Mein Reityak auf dem Wege nach dem Kara-korum](ch031.xhtml#b543)
+* [Der Kitschik-kumdan-Paß in der Nähe des Kara-korum](ch031.xhtml#b544)
+* [Ein Teil des Kitschik-kumdan-Gletschers beim Kara-korum-Passe](ch031.xhtml#b545)
+* [Flötenspieler in Schejok](ch031.xhtml#b547)
 
 
 :::: align-center
@@ -219,8 +215,8 @@
 
 ## Karten. 
 
-* Mitteltibet. Maßstab 1:2&nbsp;000&nbsp;000.
-* Übersichtstarte der Reise Sven v. Hedins, 1899—1902. Maßstab 1:14&nbsp;000&nbsp;000.
+* [Mitteltibet. Maßstab 1:2&nbsp;000&nbsp;000.](ch031.xhtml#b550)
+* [Übersichtskarte der Reise Sven v. Hedins, 1899—1902.](ch031.xhtml#b551) Maßstab 1:14&nbsp;000&nbsp;000.
 
 :::: align-center
 ****
