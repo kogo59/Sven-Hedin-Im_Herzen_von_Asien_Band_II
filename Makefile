@@ -69,7 +69,7 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_F
 	cp  $(IMAGES_FOLDER)/Im_Herzen_von_Asien_II_*.jpg .
 	cp  $(IMAGES_FOLDER)/cover.jpg .
 	cp  $(IMAGES_FOLDER)/logo.jpg .
-	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
+	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=pdf -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 	rm Im_Herzen_von_Asien_II_*.jpg
 	rm cover.jpg 

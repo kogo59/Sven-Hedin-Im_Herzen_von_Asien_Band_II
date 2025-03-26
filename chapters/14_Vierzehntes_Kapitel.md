@@ -590,9 +590,4 @@ der Wahrheit zu bleiben, das Bücherschreiben bleiben lassen wollten!
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

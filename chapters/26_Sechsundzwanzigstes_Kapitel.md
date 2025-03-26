@@ -568,8 +568,3 @@ blendenden, glitzernden Eise.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

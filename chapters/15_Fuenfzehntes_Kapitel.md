@@ -582,9 +582,4 @@ Wort auszutauschen, wechselten wir den Platz.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

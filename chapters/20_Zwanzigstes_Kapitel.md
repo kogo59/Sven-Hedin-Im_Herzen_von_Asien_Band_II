@@ -521,9 +521,4 @@ Reispudding, und ich glaubte, daß er an vorübergehender Bergkrankheit leide.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

@@ -556,9 +556,3 @@ ehe wir wieder imstande waren, einen so langen Weg ohne Unterbrechung zu machen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

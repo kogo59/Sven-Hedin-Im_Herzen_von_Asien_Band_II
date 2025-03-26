@@ -444,9 +444,3 @@ gegangen; der Hals lag noch da.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

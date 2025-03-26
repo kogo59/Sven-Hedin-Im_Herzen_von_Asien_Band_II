@@ -661,9 +661,3 @@ hatte er ja nur der Spur zu folgen, bis er ins große Hauptquartier gelangte.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

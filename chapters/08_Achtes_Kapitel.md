@@ -660,11 +660,6 @@ geraten.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Lord Curzon*: vergleiche [George Curzon, 1. Marquess Curzon of Kedleston](https://de.wikipedia.org/wiki/George_Curzon%2C_1._Marquess_Curzon_of_Kedleston)]{.footnote}
 

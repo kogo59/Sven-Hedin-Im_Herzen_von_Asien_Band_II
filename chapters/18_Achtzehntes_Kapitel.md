@@ -472,8 +472,3 @@ und sind dann wohl, wie ich vermute, zu Kamba Bombo zurückgekehrt.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

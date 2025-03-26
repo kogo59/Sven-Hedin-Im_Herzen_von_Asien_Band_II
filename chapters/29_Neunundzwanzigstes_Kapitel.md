@@ -434,11 +434,6 @@ Und hiermit sage ich dem geduldigen Leser für diesmal Lebewohl!
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2900]: [*Hemis*: vergleiche [Hemis](https://en.wikipedia.org/wiki/Hemis)]{.footnote}
 

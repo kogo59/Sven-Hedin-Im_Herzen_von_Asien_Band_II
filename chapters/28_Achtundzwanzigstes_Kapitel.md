@@ -399,11 +399,6 @@ dem Sodschi-la besondere Vorsichtsmaßregeln getroffen würden.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2800]: [*Srinagar*: vergleiche [Srinagar](https://de.wikipedia.org/wiki/Srinagar)]{.footnote}
 
@@ -426,7 +421,6 @@ dem Sodschi-la besondere Vorsichtsmaßregeln getroffen würden.
 [^2809]: [*Lord Curzon*: vergleiche [George Curzon, 1. Marquess Curzon of Kedleston](https://de.wikipedia.org/wiki/George_Curzon,_1._Marquess_Curzon_of_Kedleston)]{.footnote}
 
 [^2810]: [*Lady Curzon*: vergleiche [Mary Curzon, Baroness Curzon of Kedleston](https://de.wikipedia.org/wiki/Mary_Curzon,_Baroness_Curzon_of_Kedleston)]{.footnote}
-
 
 [^2811]: [*Secundrabad*: vergleiche [Secunderabad](https://de.wikipedia.org/wiki/Secunderabad)]{.footnote}
 

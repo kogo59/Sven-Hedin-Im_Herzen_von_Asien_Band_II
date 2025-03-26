@@ -475,9 +475,5 @@ können.
 
 :::
 
-:::: align-center
-****
-::::
 
-### **Anmerkungen** {.break-before .unnumbered}
 

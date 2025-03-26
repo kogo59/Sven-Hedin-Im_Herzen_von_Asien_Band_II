@@ -562,11 +562,5 @@ war in der Einsamkeit verwildert und so scheu wie ein Kulan.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Dunganen*: vergleiche [Dunganen](https://de.wikipedia.org/wiki/Dunganen)]{.footnote}

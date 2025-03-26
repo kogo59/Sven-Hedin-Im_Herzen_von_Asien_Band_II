@@ -503,9 +503,4 @@ durch das nächtliche Dunkel lodern.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

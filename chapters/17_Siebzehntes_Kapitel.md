@@ -751,10 +751,5 @@ Abend, nur dann und wann hörte man in der Ferne einen Hund bellen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1700]: [*von Ketteler*: vergleiche [Clemens von Ketteler](https://de.wikipedia.org/wiki/Clemens_von_Ketteler_(Diplomat))]{.footnote}

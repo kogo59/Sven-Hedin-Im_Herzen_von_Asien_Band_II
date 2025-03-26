@@ -487,11 +487,6 @@ besonderes Vergnügen davon, Zeuge der Verwunderung des braven Kosaken zu sein
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2700]: [*Panggong-tso*: vergleiche [Pangong Tso](https://de.wikipedia.org/wiki/Pangong_Tso)]{.footnote}
 

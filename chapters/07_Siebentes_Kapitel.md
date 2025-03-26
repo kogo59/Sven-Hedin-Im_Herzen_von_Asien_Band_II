@@ -406,9 +406,3 @@ Gärten durch nach unserem Serai geleiteten.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

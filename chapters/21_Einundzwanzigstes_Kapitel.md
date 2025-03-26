@@ -772,10 +772,5 @@ im Paradeanzug.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2100]: [*Selling-tso*: vergleiche [Serling Tsho](https://de.wikipedia.org/wiki/Serling_Tsho)]{.footnote}

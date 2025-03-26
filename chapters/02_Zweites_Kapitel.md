@@ -490,12 +490,6 @@ sehr weit.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Saksaul*: vergleiche [Saxsaul](https://de.wikipedia.org/wiki/Saxaul)]{.footnote}
 

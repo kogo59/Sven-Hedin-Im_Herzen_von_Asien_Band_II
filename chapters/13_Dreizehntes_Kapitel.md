@@ -470,11 +470,6 @@ verhängnisvollen Aufbruch zu wecken.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*Tengri-nor*: vergleiche [Nam Co](https://de.wikipedia.org/wiki/Nam_Co)]{.footnote}
 

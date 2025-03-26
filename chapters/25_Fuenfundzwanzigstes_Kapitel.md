@@ -505,11 +505,6 @@ Mühsal wieder nähern.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2500]: [*Rudok*: vergleiche [Rudok](https://en.wikipedia.org/wiki/Rudok)]{.footnote}
 

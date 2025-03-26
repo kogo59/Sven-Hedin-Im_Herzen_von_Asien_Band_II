@@ -383,8 +383,3 @@ Regen ein wenig harmonisches Konzert aufgeführt, das jedoch großen Beifall fan
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}

@@ -468,9 +468,4 @@ zufrieren hören, denn es klang und knallte in den neugebildeten Eisscheiben.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

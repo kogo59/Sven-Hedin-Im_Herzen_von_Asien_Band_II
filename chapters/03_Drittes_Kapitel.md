@@ -503,10 +503,5 @@ Ordnung herangezogen.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 

@@ -538,9 +538,3 @@ bestimmte Beschäftigung und überwachte das Ganze.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
-

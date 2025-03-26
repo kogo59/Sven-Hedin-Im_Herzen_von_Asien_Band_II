@@ -410,11 +410,6 @@ ich kurz berichtet habe.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*A. Wylie*: vergleiche [Alexander Wylie](https://en.wikipedia.org/wiki/Alexander_Wylie_(missionary))]{.footnote}
 

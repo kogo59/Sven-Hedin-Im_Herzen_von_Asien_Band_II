@@ -449,9 +449,4 @@ Photographieren nicht so schrecklich zu lärmen und zu toben brauche.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 

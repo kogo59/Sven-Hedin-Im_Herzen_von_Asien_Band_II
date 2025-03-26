@@ -619,11 +619,6 @@ welcher Vorrat ziemlich lange reichen würde.
 
 :::
 
-:::: align-center
-****
-::::
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Lou-lan*: vergleiche [Loulan](https://de.wikipedia.org/wiki/Loulan)]{.footnote}
 
