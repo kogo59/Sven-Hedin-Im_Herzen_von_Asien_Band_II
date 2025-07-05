@@ -1,6 +1,6 @@
 # Im Herzen von Asien. Band II.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/213483448-87c8259a-99e6-49ad-856e-3d59f7bbaf13.jpg">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/13177792/213483448-87c8259a-99e6-49ad-856e-3d59f7bbaf13.jpg">
 
 This is a git repository of the source files for the book "Im Herzen von Asien von Sven Hedin. Zweiter Band."
 
